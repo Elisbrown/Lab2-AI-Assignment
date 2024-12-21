@@ -1,7 +1,0 @@
-pandas
-numpy
-seaborn
-matplotlib
-scikit-learn
-imbalanced-learn
-river     # For ADWIN drift detection
