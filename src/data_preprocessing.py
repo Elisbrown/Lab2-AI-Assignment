@@ -8,7 +8,7 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.ensemble import RandomForestClassifier
 
 # Load the Titanic dataset
-df = pd.read_csv('')
+df = pd.read_csv('titanic.csv')
 
 # Inspect the first few rows of the DataFrame
 print(df.head())
